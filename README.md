@@ -7,4 +7,4 @@ Welcome to my GitHub repository dedicated to my Kaggle competition entries. Here
 | Project Name                 | Score Achieved   | Description                                                                 |
 |------------------------------|------------------|-----------------------------------------------------------------------------|
 | 0 - Titanic - Machine Learning from Disaster | 0.78468 | Predicting the survival of Titanic passengers using various classification models. |
-| 1 - House prices prediction | 0.14454 | Predicting the price of houses using XGBoost and LightGBM. |
+| 1 - House prices prediction | 0.14099 | Predicting the price of houses using XGBoost and LightGBM. |
